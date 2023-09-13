@@ -1,0 +1,10 @@
+{
+    "name": "Artifact.SdkToolkit.Editor",
+    "references": [
+      "Artifact.SdkToolkit"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

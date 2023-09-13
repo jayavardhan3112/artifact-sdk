@@ -1,0 +1,21 @@
+{
+  "name": "com.artifact.sdk-toolkit",
+  "version": "0.0.1",
+  "displayName": "Artifact SDK",
+  "description": "SDK for all artifact integration",
+  "unity": "2022.1",
+  "keywords": [
+    "sdk",
+    "wallet",
+    "web3",
+    "gamer"
+  ],
+  "author": {
+    "name": "Artifact Labs Inc.",
+    "email": "jkarampudi@gotartifact.com",
+    "url": "https://www.gotartifact.com/"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

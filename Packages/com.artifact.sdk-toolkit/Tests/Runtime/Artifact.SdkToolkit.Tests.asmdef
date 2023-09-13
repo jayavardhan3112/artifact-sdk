@@ -1,0 +1,11 @@
+{
+    "name": "Artifact.SdkToolkit.Tests",
+    "references": [
+        "Artifact.SdkToolkit"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Artifact.SdkToolkit.Editor.Tests",
+    "references": [
+        "Artifact.SdkToolkit.Editor",
+        "Artifact.SdkToolkit"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

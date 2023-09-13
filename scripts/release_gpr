@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+npm publish --access=public --registry=https://npm.pkg.github.com/@artifact Packages/com.artifact.sdk-toolkit
